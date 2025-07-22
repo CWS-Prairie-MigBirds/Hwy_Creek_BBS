@@ -1,0 +1,26 @@
+{
+    "id": "55382334",
+    "path": "C:/Users/DowneyE/Documents/GithubProjects/Hwy_Creek_BBS/scripts/00_datawrangle.R",
+    "project_path": "scripts/00_datawrangle.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1752852920784.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "29,0",
+        "scrollLine": "5"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1752845378,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1752845378,
+    "read_only": false,
+    "read_only_alternatives": []
+}
